@@ -1,5 +1,5 @@
 ---
-version: 6.11.0-dev.g5a921bc7
+version: 6.11.0-dev.g8a4c93e7
 module: bmm
 update_source: github:bmad-code-org/bmad-skills/skills
 ---
